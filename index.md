@@ -6,4 +6,7 @@
 - Metal Head 
 - Dog Mom
 
+-- FIND ME ON... --
+- <a href="https://www.instagram.com/mikaylarebby">Instagram</a>
+- <a href="https://www.hackster.io/mikaylarebby">Hackster</a>
 
