@@ -1,20 +1,9 @@
 ## Mikayla Thomas
 
-```markdown
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+-- ABOUT --
+MISSO President (17-18 Academic Year)
+Studying MIS & Systems Development at the Peter Kiewit Institute @ UNO. 
+Metal Head 
+Dog Mom
 
 
