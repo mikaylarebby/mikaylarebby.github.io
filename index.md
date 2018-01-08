@@ -9,5 +9,4 @@
 -- SOCIAL MEDIA, ETC --
 - <a href="https://www.instagram.com/mikaylarebby">Instagram</a>
 - <a href="https://www.hackster.io/mikaylarebby">Hackster</a>
-- <a href="https://www.vsco.co/mikaylarebby">VSCO</a>
 
